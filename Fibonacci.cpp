@@ -15,6 +15,6 @@ int main() {
         prev2 = prev1;
         prev1 = newFibo;
     }
-
+    cout << "The code successfully run. " << endl ;
     return 0;
 }
