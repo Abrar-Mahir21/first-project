@@ -12,6 +12,7 @@ int main() {
     }
 
     cout << "Lowest value: " << minVal << endl;
+    cout << "Abrar Mahir" << endl;
 
     return 0;
 }
