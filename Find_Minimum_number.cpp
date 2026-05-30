@@ -13,6 +13,7 @@ int main() {
 
     cout << "Lowest value: " << minVal << endl;
     cout << "Abrar Mahir" << endl;
+    cout << "The code is also successfully loaded. " << endl;
 
     return 0;
 }
